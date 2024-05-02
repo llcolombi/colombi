@@ -1,2 +1,2 @@
-# colombi
-Aluno de si
+# Colombi
+Aluno de Sistemas de Informações
